@@ -1,0 +1,1 @@
+print("[Qolivo Destiny Computer]")
